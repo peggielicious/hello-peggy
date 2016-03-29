@@ -22,12 +22,14 @@ body{
 }
 address{
 
-	margin-top: 200px;
+	
 	color:black;
 	font-size: 28px;
 }
-a{
-	font-size: 30px;
+a img{
+	width: 90px;
+	height: 90px;
+	
 }
 
 </style>
@@ -40,12 +42,13 @@ a{
 </head>
 
 <body>
+	<a href="https://www.facebook.com/peggymegan"><img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkN7cQqFEo8gtJHwjSVYKOgMXv6L0kyY3pBIAp1oJ9Udua2mVj"></a>
+
 <address>
 <br>
 D154A Kubekuhle Street<br>
 Site C Khayelitsha<br>
 7784<br>
-<a href="https://www.facebook.com/peggymegan">peggymmakgora.ledwabwa@gmail.com</a>
 </address>
 
 	</body>
