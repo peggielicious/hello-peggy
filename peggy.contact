@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+
+<html>
+
+<head lang="eng">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+
+  <link href="/assets//normalize.css" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="bootstrap-theme.css">
+
+<style>
+
+body{
+	background:url("http://www.denverhomenavigators.com/wp-content/uploads/2015/11/location.jpg");
+	background-size: cover;
+}
+address{
+
+	margin-top: 200px;
+	color:black;
+	font-size: 28px;
+}
+a{
+	font-size: 30px;
+}
+
+</style>
+
+
+
+
+
+  
+</head>
+
+<body>
+<address>
+<br>
+D154A Kubekuhle Street<br>
+Site C Khayelitsha<br>
+7784<br>
+<a href="https://www.facebook.com/peggymegan">peggymmakgora.ledwabwa@gmail.com</a>
+</address>
+
+	</body>
+
+	</html>
